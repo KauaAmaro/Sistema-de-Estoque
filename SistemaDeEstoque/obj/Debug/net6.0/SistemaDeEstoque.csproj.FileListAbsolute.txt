@@ -1,0 +1,15 @@
+C:\Users\kauan\Downloads\C#\SistemaDeEstoque\SistemaDeEstoque\bin\Debug\net6.0\SistemaDeEstoque.exe
+C:\Users\kauan\Downloads\C#\SistemaDeEstoque\SistemaDeEstoque\bin\Debug\net6.0\SistemaDeEstoque.deps.json
+C:\Users\kauan\Downloads\C#\SistemaDeEstoque\SistemaDeEstoque\bin\Debug\net6.0\SistemaDeEstoque.runtimeconfig.json
+C:\Users\kauan\Downloads\C#\SistemaDeEstoque\SistemaDeEstoque\bin\Debug\net6.0\SistemaDeEstoque.dll
+C:\Users\kauan\Downloads\C#\SistemaDeEstoque\SistemaDeEstoque\bin\Debug\net6.0\SistemaDeEstoque.pdb
+C:\Users\kauan\Downloads\C#\SistemaDeEstoque\SistemaDeEstoque\obj\Debug\net6.0\SistemaDeEstoque.csproj.AssemblyReference.cache
+C:\Users\kauan\Downloads\C#\SistemaDeEstoque\SistemaDeEstoque\obj\Debug\net6.0\SistemaDeEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\Downloads\C#\SistemaDeEstoque\SistemaDeEstoque\obj\Debug\net6.0\SistemaDeEstoque.AssemblyInfoInputs.cache
+C:\Users\kauan\Downloads\C#\SistemaDeEstoque\SistemaDeEstoque\obj\Debug\net6.0\SistemaDeEstoque.AssemblyInfo.cs
+C:\Users\kauan\Downloads\C#\SistemaDeEstoque\SistemaDeEstoque\obj\Debug\net6.0\SistemaDeEstoque.csproj.CoreCompileInputs.cache
+C:\Users\kauan\Downloads\C#\SistemaDeEstoque\SistemaDeEstoque\obj\Debug\net6.0\SistemaDeEstoque.dll
+C:\Users\kauan\Downloads\C#\SistemaDeEstoque\SistemaDeEstoque\obj\Debug\net6.0\refint\SistemaDeEstoque.dll
+C:\Users\kauan\Downloads\C#\SistemaDeEstoque\SistemaDeEstoque\obj\Debug\net6.0\SistemaDeEstoque.pdb
+C:\Users\kauan\Downloads\C#\SistemaDeEstoque\SistemaDeEstoque\obj\Debug\net6.0\SistemaDeEstoque.genruntimeconfig.cache
+C:\Users\kauan\Downloads\C#\SistemaDeEstoque\SistemaDeEstoque\obj\Debug\net6.0\ref\SistemaDeEstoque.dll
